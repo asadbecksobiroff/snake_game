@@ -1,12 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: user
- * Date: 2/23/2024
- * Time: 5:12 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.Windows.Forms;
 
 namespace key
